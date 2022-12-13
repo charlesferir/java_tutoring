@@ -1,1 +1,3 @@
-# java_tutoring
+# java tutoring
+
+Stores sample codes for tutoring.
